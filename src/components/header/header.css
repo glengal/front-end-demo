@@ -1,0 +1,12 @@
+.Header-logo {
+  flex: 1; }
+
+.Header-title {
+  color: #ff8314;
+  flex: 8; }
+
+.Header-logout {
+  margin: 0; }
+
+.Header-website, .Header-name {
+  padding-right: 1em; }

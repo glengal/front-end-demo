@@ -1,0 +1,18 @@
+.Login {
+  position: fixed;
+  width: 40%;
+  z-index: 2;
+  top: 50%;
+  left: 45%;
+  margin-top: -10%;
+  margin-left: -10%;
+
+  &-input {
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+    height: 2.5em;
+    padding: 0.5em;
+    margin-right: 0.5em;
+  }
+}

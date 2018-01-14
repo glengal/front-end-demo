@@ -1,0 +1,17 @@
+.Todos-tasks {
+  border: 1px solid black;
+  padding: 2em; }
+
+.Todos-label {
+  display: inline;
+  width: auto;
+  cursor: pointer; }
+
+.Todos-switch {
+  text-align: right; }
+
+.Todos-text {
+  padding-right: 0.5em; }
+
+.Todos-header {
+  padding-top: 5em; }

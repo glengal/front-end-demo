@@ -1,0 +1,16 @@
+.Header {
+  &-logo {
+    flex: 1;
+  }
+  &-title {
+    color: #ff8314;
+    flex: 8;
+  }
+  &-logout {
+    margin: 0;
+  }
+
+  &-website, &-name {
+    padding-right: 1em;
+  }
+}
